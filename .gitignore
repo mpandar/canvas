@@ -13,6 +13,7 @@ phpunit.xml
 
 .env
 .idea
+.vscode
 .project
 .DS_Store
 *.map
