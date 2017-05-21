@@ -5,7 +5,7 @@
 /storage/*.lock
 /storage/*.index
 /tests/report
-
+/storage/debugbar
 Thumbs.db
 Homestead.yaml
 Homestead.json
